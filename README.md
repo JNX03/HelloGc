@@ -1,3 +1,5 @@
+TAKE A NOTE : THIS PROJECT GOING TO FIX SOON! - WEB DISPLAY NOT SHOW
+
 <div align="center">
 
   <img src="public/logo.png" alt="logo" width="200" height="auto" />
