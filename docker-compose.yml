@@ -3,7 +3,7 @@ services:
   eletypes-react:
     build:
       dockerfile: Dockerfile
-    image: eletypes_react
+    image: gc_react
     ports:
       - "3000:3000"
-    container_name: eletypes_react
+    container_name: gc_react
