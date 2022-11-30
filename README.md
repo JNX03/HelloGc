@@ -12,7 +12,7 @@ TAKE A NOTE : THIS PROJECT GOING TO FIX SOON! - WEB DISPLAY NOT SHOW
 <h4>
     <a href="https://github.com/JNDEV03/HelloGc/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/JNDEV03/HelloGc/issues/">Request Feature</a>
+    <a href="https://github.com/JNDEV03/HelloGc/pulls">Request Feature</a>
   </h4>
 </div>
 
