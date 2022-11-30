@@ -30,6 +30,7 @@
 <!-- About the Project -->
 ## :star2: About the Project
 - This project making for eduication for teaching typing and test speed (wpm - word per minute) - typing game etc.
+- This project have inspiration from monkey type :D
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
