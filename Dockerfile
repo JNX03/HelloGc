@@ -1,8 +1,8 @@
 FROM node:18
 
-WORKDIR /eletypes_react
+WORKDIR /gc_react
 
-ADD package.json package-lock.json /eletypes_react
+ADD package.json package-lock.json /gc_react
 
 RUN npm install
 
