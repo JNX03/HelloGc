@@ -15,3 +15,10 @@
 </div>
 
 <br />
+
+## 001 [ How to report bug ]
+- Go to [Issues page](https://github.com/JNDEV03/HelloGc/issues/) and click New Issues
+- Put The Title of bug and write down what happen how is it about
+- Click Sumbit Issues
+
+##### Example [Click Here](https://github.com/JNDEV03/HelloGc/issues/1)
