@@ -64,9 +64,7 @@ To deploy this project run
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/JNDEV03/HelloGc/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/u/112270477?v=4" />
-</a>
+- Jn03
 
 
 <!-- Contact -->
